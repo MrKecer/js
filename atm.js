@@ -1,5 +1,5 @@
 /*
-1-money görüntüleme
+1-para görüntüleme
 2-Para çekme 
 3-Para yatırma
 4-Çıkış
