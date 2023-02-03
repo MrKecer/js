@@ -15,7 +15,7 @@ let Job = function (firstName, lastName, birthDay, wage) {
 Job.prototype = Object.create(Object1.prototype);
 //Job constructor
 
-Job.prototype.contructor = Job;
+Job.prototype.constuctor = Job;
 
 Object1.prototype.calculateAge = function () {
     return 2023 - this.birthOfDay;
