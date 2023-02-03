@@ -6,5 +6,5 @@ map.set([1, 2, 3, 4], "Kıbrıs");
 console.log(map.get(07));
 console.log(map.get([1, 2, 3, 4]));//reference 
 for (const [key, val] of map) {
-    console.console.log(key, " ", va);
+    console.console.log(key, " ", key);
 }
